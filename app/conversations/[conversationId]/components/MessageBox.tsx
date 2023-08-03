@@ -1,6 +1,6 @@
 "use client";
 
-import Avatar from "@/app/components/Avatar";
+import Avatar from "@/app/components/avatar";
 import { FullMessageType } from "@/app/types";
 import clsx from "clsx";
 import { format } from "date-fns";

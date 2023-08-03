@@ -1,6 +1,6 @@
 "use client";
 
-import Avatar from "@/app/components/Avatar";
+import Avatar from "@/app/components/avatar";
 import LoadingModal from "@/app/components/LoadingModal";
 import { User } from "@prisma/client";
 import axios from "axios";
