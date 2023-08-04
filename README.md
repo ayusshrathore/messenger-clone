@@ -87,11 +87,3 @@ The project leverages a powerful stack of technologies to deliver a high-quality
 - **Pusher**: A real-time messaging service for instant message updates. Pusher powers real-time events and notifications, making messaging feel instantaneous.
 
 - **TypeScript**: A typed superset of JavaScript, providing enhanced code quality and better developer experience. TypeScript brings static type checking and code predictability to the project.
-
-## Contributing
-
-Contributions to this project are welcome! If you find any bugs, have additional features in mind, or want to optimize the codebase, feel free to open an issue or submit a pull request. Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
